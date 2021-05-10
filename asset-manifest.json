@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sciencequiz/static/css/main.05deec23.chunk.css",
+    "main.js": "/sciencequiz/static/js/main.dfbc3199.chunk.js",
+    "main.js.map": "/sciencequiz/static/js/main.dfbc3199.chunk.js.map",
+    "runtime-main.js": "/sciencequiz/static/js/runtime-main.4c048207.js",
+    "runtime-main.js.map": "/sciencequiz/static/js/runtime-main.4c048207.js.map",
+    "static/js/2.c50deb2b.chunk.js": "/sciencequiz/static/js/2.c50deb2b.chunk.js",
+    "static/js/2.c50deb2b.chunk.js.map": "/sciencequiz/static/js/2.c50deb2b.chunk.js.map",
+    "index.html": "/sciencequiz/index.html",
+    "static/css/main.05deec23.chunk.css.map": "/sciencequiz/static/css/main.05deec23.chunk.css.map",
+    "static/js/2.c50deb2b.chunk.js.LICENSE.txt": "/sciencequiz/static/js/2.c50deb2b.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/sciencequiz/static/media/galaxy-bg.1d835724.jpg",
+    "static/media/score.5423532c.mp3": "/sciencequiz/static/media/score.5423532c.mp3",
+    "static/media/select.e1001441.mp3": "/sciencequiz/static/media/select.e1001441.mp3",
+    "static/media/ufo.270b3f5c.svg": "/sciencequiz/static/media/ufo.270b3f5c.svg",
+    "static/media/worldwide.82e95fdd.svg": "/sciencequiz/static/media/worldwide.82e95fdd.svg",
+    "static/media/wrong.e7d520aa.mp3": "/sciencequiz/static/media/wrong.e7d520aa.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c048207.js",
+    "static/js/2.c50deb2b.chunk.js",
+    "static/css/main.05deec23.chunk.css",
+    "static/js/main.dfbc3199.chunk.js"
+  ]
+}
